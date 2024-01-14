@@ -1,6 +1,6 @@
 # "cloudapp.azure.com" Subdomain Takeover POC
 
-This repo demonstrates how to takeover subdmain which is pointing to Azure Virtual Machine (cloudapp.azure.com) service.
+This repo demonstrates how to takeover subdomain which is pointing to Azure Virtual Machine (cloudapp.azure.com) service.
 
 ## Description
 A subdomain takeover vulnerability occurs when a subdomain (e.g., sub.example.com) of a domain points to an external service, and the ownership of that external service is lost by the original domain owner. In other words, if the external service associated with the subdomain is no longer under the control of the domain owner, it becomes susceptible to takeover by an attacker.
