@@ -1,1 +1,0 @@
-# cloudapp.azure.com-subdomain-takeover
